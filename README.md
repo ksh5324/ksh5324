@@ -4,7 +4,7 @@
   
 </p>
 
-# KangSeongHun [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fksh5324&count_bg=%23FFF200&title_bg=%23C2C2C2&icon=github.svg&icon_color=%23000000&title=ksh&edge_flat=false)](https://hits.seeyoufarm.com)
+# KangSeongHun 
 
 
 ![ksh5324's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksh5324&theme=buefy&show_icons=true)
