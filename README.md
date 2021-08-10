@@ -1,16 +1,64 @@
-<p align=right> 
+<div align = center>
+<!-- <div style="backgroundColor=000000"> -->
   
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=ksh5324&fontSize=60&animation=fadeIn&fontColor=999)
+<h2 align="center" fontSize="30px"><b>👋 SeongHun &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</b></h2>
+<div align="center">
+  <span>Student currently attending Daegu Software Meister High School.</span><br />
+  <span>Junior Developer Who Wants to Be a Web Server Developer</span>
+</div>
+<br />
+<!-- <hr width=90% /> -->
+<br />
   
+<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+<br />
+<img src="https://img.shields.io/badge/Html5-FA7343?style=flat-square&logo=Html5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Css-A8B9CC?style=flat-square&logo=Css3&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-007396?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Jquery-0095D5?style=flat-square&logo=Jquery&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/React-0095D5?style=flat-square&logo=React&logoColor=white"/></a><br />
+<img src="https://img.shields.io/badge/MySQL-0095D5?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Sass-0095D5?style=flat-square&logo=Sass&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C-0095D5?style=flat-square&logo=C&logoColor=white"/></a>
+
+<br />
+<br />
+
+<h3 align="center"><b>🌱 I’m currently learning 🌱</b></h3>
+<br />
+<img src="https://img.shields.io/badge/React-0095D5?style=flat-square&logo=React&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-007396?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Node.js-0095D5?style=flat-square&logo=Node.js&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/TypeScript-0095D5?style=flat-square&logo=TypeScript&logoColor=white"/></a>
+
+<br />
+<br />
+<!-- <hr width=90% /> -->
+<br />
+
+<div>
+  <h3><b>💬 Contact 💬</b></h3>
+  <br />
+  <a href="mailto:ksh5324@dgsw.hs.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ksh5324@dgsw.hs.kr"/></a>
+  <a href="https://seonghun-324.tistory.com/"><img src="https://img.shields.io/badge/Tstory-000000?style=flat-square&logo=Tvtime&logoColor=white&link=https://seonghun-324.tistory.com/"/></a>
+</div>
+
+<br />
+<br />
+<br />
+<div display = flex>
   
-</p>
-
-# KangSeongHun 
-
-
-![ksh5324's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksh5324&theme=buefy&show_icons=true)
+![ksh5324's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksh5324&theme=vuefy&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksh5324)](https://github.com/anuraghazra/github-readme-stats)
-
-
+  
+</div>
+  
+![footer](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=footer)
+  
+<!-- </div> -->
+</div>
+ <!-- 
 <br>
 
 ## :ledger: 사용할 수 있는 것
