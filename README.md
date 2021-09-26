@@ -39,7 +39,6 @@
 <img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.Js&logoColor=white"/></a>
 
 <br />
 <br />
