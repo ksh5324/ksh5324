@@ -11,6 +11,11 @@
 <!-- <hr width=90% /> -->
 <br />
   
+<h3 align="center"><b>📚 Self Study 📚</b></h3>
+  
+  <a href="https://github.com/Self-Study-Programing"><img src="https://seeklogo.com/images/W/webpack-logo-9E66EE203A-seeklogo.com.png" width="60" /></a>
+  
+  
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 <br />
 <img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=Html5&logoColor=white"/></a>
