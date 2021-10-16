@@ -55,7 +55,7 @@
   <h3><b>💬 Contact 💬</b></h3>
   <br />
   <a href="mailto:ksh5324@dgsw.hs.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ksh5324@dgsw.hs.kr"/></a>
-  <a href="https://seonghun-324.tistory.com/"><img src="https://img.shields.io/badge/Tstory-000000?style=flat-square&logo=Tvtime&logoColor=white&link=https://seonghun-324.tistory.com/"/></a>
+  <a href="https://seonghun-324.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tvtime&logoColor=white&link=https://seonghun-324.tistory.com/"/></a>
 </div>
 
 <br />
