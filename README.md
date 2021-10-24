@@ -29,6 +29,7 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/TypeScript-777BB4?style=flat-square&logo=TypeScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Pug-A86454?style=flat-square&logo=Pug&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
 
 <br />
 <br />
@@ -38,7 +39,6 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ReduxSaga-999999?style=flat-square&logo=Redux-saga&logoColor=white"/></a><br />
 <img src="https://img.shields.io/badge/MobX-FF9955?style=flat-square&logo=MobX&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"/></a>
