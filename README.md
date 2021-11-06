@@ -43,6 +43,7 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Next.js-A86454?style=flat-square&logo=Next.js&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white"/></a>
 
 <br />
 <br />
