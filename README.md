@@ -30,6 +30,7 @@
 <img src="https://img.shields.io/badge/TypeScript-777BB4?style=flat-square&logo=TypeScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white"/></a>
+<a href="https://gist.github.com/2d04c5b55eb091dfacff90140b856c31.git">자세히</a>
 
 <br />
 <br />
