@@ -49,6 +49,7 @@
 <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=Three.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/p5.js-ED225D?style=flat-square&logo=p5.js&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white"/></a>
 
 
 <br />
