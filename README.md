@@ -32,6 +32,7 @@
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MobX-FF9955?style=flat-square&logo=MobX&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/></a>
 
 
 <br />
