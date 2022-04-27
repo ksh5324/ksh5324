@@ -70,8 +70,8 @@
 <br />
 <div display = flex>
   
-![ksh5324's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksh5324&theme=vuefy&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksh5324)](https://github.com/anuraghazra/github-readme-stats)
+![ksh5324's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksh5324&theme=kacho_ga&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksh5324&theme=kacho_ga)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
   
