@@ -9,11 +9,7 @@
 </div>
 <br />
 <!-- <hr width=90% /> -->
-<br />
-  
-<h3 align="center"><b>📚 Self Study 📚</b></h3>
-  
-  <a href="https://github.com/Self-Study-Programing"><img src="https://seeklogo.com/images/W/webpack-logo-9E66EE203A-seeklogo.com.png" width="60" /></a>
+<br /> 
   
   
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
@@ -68,12 +64,12 @@
 <br />
 <br />
 <br />
-<div display = flex>
   
 ![ksh5324's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksh5324&theme=kacho_ga&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksh5324&theme=kacho_ga)](https://github.com/anuraghazra/github-readme-stats)
   
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ksh5324)](https://git.io/streak-stats) 
+ 
+  
   
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=footer)
   
